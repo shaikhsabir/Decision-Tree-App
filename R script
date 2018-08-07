@@ -54,7 +54,7 @@ ui <- fluidPage(
       h5("Choose sample dataset or upload your dataset and select uploaded data"),
       tabsetPanel(type = "tab",
                   tabPanel("View",plotOutput("View")),
-                  tabPanel("summary", verbatimTextOutput("Summary")),
+                  tabPanel("Summary", verbatimTextOutput("summary")),
                   tabPanel("PlotCp",plotOutput("Plotcp")),
                   tabPanel("Pruned Tree",plotOutput("prune.Tree")),
                   tabPanel("Test RMSE", verbatimTextOutput("print.error")),
