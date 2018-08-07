@@ -49,7 +49,7 @@ ui <- fluidPage(
     
     mainPanel(
       tags$hr(),
-      h2("Decision Tree"),
+      h2("Decision Tree App"),
       tags$hr(),
       h5("Choose sample dataset or upload your dataset and select uploaded data"),
       tabsetPanel(type = "tab",
