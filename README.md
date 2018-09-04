@@ -1,4 +1,4 @@
-# Decision-Tree-App
+# Decision-Tree-App: GUI web application for decision tree analysis 
 
 Data analysis and machine learning have become an integrative part of the computer technology, offering automated 
 procedures for the prediction of a phenomenon based on past observations, providing insights about the problem by 
